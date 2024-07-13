@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    color:darkmagenta;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 400;
+
+}
+body {
+    background-image:url(./images/Weather1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+    
+#locationInput {
+    background-color:rgb(225, 225, 202);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#searchButton {
+    background-color:rgb(225, 225, 202);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.weather-info {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
